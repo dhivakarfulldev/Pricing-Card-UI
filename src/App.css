@@ -42,6 +42,9 @@ body{
 .icon{
   margin-right: 5px;
 }
+.icon-wrong{
+  opacity: 0.4;
+}
 .card .card-name,.card-price{
   text-align: center;
   
