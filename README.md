@@ -39,9 +39,10 @@ The project is designed to provide a clean, responsive, and user-friendly pricin
 
 ---
 
+
 ## 📁 Project Structure
 
-```text
+ 
 src/
 ├── components/
 │   └── PricingCard.jsx
