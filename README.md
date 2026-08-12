@@ -42,7 +42,7 @@ The project is designed to provide a clean, responsive, and user-friendly pricin
 
 ## 📁 Project Structure
 
- ``text
+ ```text
 src/
 ├── components/
 │   └── PricingCard.jsx
@@ -53,7 +53,7 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
-
+```
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [Dhivakar R](https://www.linkedin.com/in/dhivakar--r/)
