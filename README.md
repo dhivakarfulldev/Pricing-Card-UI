@@ -1,16 +1,58 @@
-# React + Vite
+# 💳 React Pricing Cards UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Pricing Cards UI** built with **React.js**.  
+The pricing plans are rendered dynamically using `.map()` and reusable React components.
 
-Currently, two official plugins are available:
+The project is designed to provide a clean, responsive, and user-friendly pricing section that works seamlessly across **desktop, tablet, and mobile devices**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📱 Fully responsive design
+- 💳 Modern pricing card UI
+- ⚛️ Built with reusable React components
+- 🔄 Dynamic rendering using `.map()`
+- 📦 Pricing data stored in a separate data file
+- 🎨 Clean and modern user interface
+- 🌈 Gradient background for page and buttons
+- 🖱️ Card hover effects
+- 📐 Responsive layout for desktop, tablet, and mobile
+- 🔤 Google Fonts integration using **Open Sans**
+- 🧩 Clean and organized project structure
+- ♻️ Reusable `PricingCard` component
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js** – Frontend library
+- **JavaScript (ES6+)** – Application logic
+- **HTML5** – Page structure
+- **CSS3** – Styling and responsive design
+- **Vite** – Development and build tool
+- **Google Fonts** – Open Sans typography
+- **Git & GitHub** – Version control
+- **Vercel** – Deployment
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+├── components/
+│   └── PricingCard.jsx
+│
+├── data/
+│   └── pricingData.js
+│
+├── App.jsx
+├── App.css
+└── main.jsx
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [Dhivakar R](https://www.linkedin.com/in/dhivakar--r/)
